@@ -2,7 +2,7 @@
 
 ## Git and GitHub 
 
-The task introduced me to basic usage of Git, how it works and its features like commits.
+The task introduced me to basic usage of Git, how it works and its features.
 
 ## Linux CLI, and HTTP
 
