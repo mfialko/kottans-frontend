@@ -1,4 +1,5 @@
-# kottans-frontend
+# Kottans Front-End Course
+[![frontend](https://img.shields.io/badge/%3D(%5E.%5E)%3D-frontend-brightgreen.svg)](https://github.com/kottans/frontend)
 
 ## Git and GitHub 
 
