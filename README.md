@@ -1,4 +1,4 @@
-# Kottans Front-End Course
+# kottans-frontend
 
 
 ## Git and GitHub 
