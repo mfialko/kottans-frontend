@@ -9,5 +9,5 @@ The task introduced me to a basic usage of Git, how it works and its features.
 
 * [Linux Command Line Basics](task_linux_cli/2018-11-04_214915.jpg)
 
-About navigating the file system, changing and working with files. Such things like aliases, `sed` and `grep` were new for me. I also got familiar with HTTP.
+About navigating through the file system, changing and working with files. Such things like aliases, `sed` and `grep` were new for me. I also got familiar with HTTP.
 
