@@ -17,3 +17,8 @@ About navigating through the file system, changing and working with files. Such 
 * [GitHub & Collaboration](task_git_collaboration/2018-11-17_180519.jpg)
 
 In this part it was useful to read about `fetch`, practice with ancestry references, `revert`, `reset` and also I refresh my knowledge about merging and `rebase` command. Despite on the first task courses were very helpful.
+
+## Intro to HTML and CSS 
+
+* [Intro to HTML & CSS](task_html_css_intro/2018-11-22_191251.jpg)
+* [HTML Academy: first two sections](task_html_css_intro/2018-11-23_211447.jpg)
