@@ -21,4 +21,11 @@ In this part it was useful to read about `fetch`, practice with ancestry referen
 ## Intro to HTML and CSS 
 
 * [Intro to HTML & CSS](task_html_css_intro/2018-11-22_191251.jpg)
-* [HTML Academy: first two sections](task_html_css_intro/2018-11-23_211447.jpg)
+* [HTML Academy - Basics of HTML/CSS ](task_html_css_intro/2018-11-23_211447.jpg)
+
+## Responsive Web Design
+
+* [Responsive Web Design Fundamentals](task_responsive_web_design/2018-12-03_165043.jpg)
+* [Flexbox Froggy](task_responsive_web_design/2018-12-03_172410.jpg)
+
+
