@@ -28,4 +28,11 @@ In this part it was useful to read about `fetch`, practice with ancestry referen
 * [Responsive Web Design Fundamentals](task_responsive_web_design/2018-12-03_165043.jpg)
 * [Flexbox Froggy](task_responsive_web_design/2018-12-03_172410.jpg)
 
+## JS Basics
+
+* [Intro to JS](task_js_basics/2018-12-09_225050.jpg)
+* [freecodecamp Algorithm Scripting Challenges](task_js_basics/2018-12-28_183742.jpg)
+
+
+
 
