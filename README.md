@@ -33,6 +33,12 @@ In this part it was useful to read about `fetch`, practice with ancestry referen
 * [Intro to JS](task_js_basics/2018-12-09_225050.jpg)
 * [freecodecamp Algorithm Scripting Challenges](task_js_basics/2018-12-28_183742.jpg)
 
+## DOM
+
+* [JavaScript and the DOM](task_js_dom/2019-01-02_211729.jpg)
+* [freecodecamp Algorithm Scripting Challenges](task_js_dom/2019-01-02_230019.jpg)
+
+
 
 
 
