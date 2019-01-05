@@ -40,8 +40,10 @@ In this part it was useful to read about `fetch`, practice with ancestry referen
 
 ### Practical task
 
+Reviewed and approved by @AMashoshyna
 [Demo](https://mfialko.github.io/jsdom-task/) |
 [Code base](https://github.com/mfialko/jsdom-task)
+
 
 
 
