@@ -38,6 +38,12 @@ In this part it was useful to read about `fetch`, practice with ancestry referen
 * [JavaScript and the DOM](task_js_dom/2019-01-02_211729.jpg)
 * [freecodecamp Algorithm Scripting Challenges](task_js_dom/2019-01-02_230019.jpg)
 
+### Practical task
+
+[Demo](https://mfialko.github.io/jsdom-task/) |
+[Code base](https://github.com/mfialko/jsdom-task)
+
+
 
 
 
