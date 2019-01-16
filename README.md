@@ -43,6 +43,12 @@ In this part it was useful to read about `fetch`, practice with ancestry referen
 [Demo](https://mfialko.github.io/jsdom-task/) |
 [Code base](https://github.com/mfialko/jsdom-task) Reviewed and approved by @AMashoshyna
 
+## A Tiny JS World
+
+### Practical Task
+
+[Demo](http://mfialko.github.io/a-tiny-JS-world) |
+[Code base](https://github.com/mfialko/a-tiny-JS-world) Reviewed and approved by @AMashoshyna
 
 
 
